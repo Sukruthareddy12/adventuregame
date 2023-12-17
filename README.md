@@ -9,3 +9,5 @@ Use code with caution.
 
 
 below is preview of how to play the game👇
+![Screenshot 2023-12-17 220950](https://github.com/Sukruthareddy12/adventuregame/assets/153543378/b7acf7d1-be06-4072-9f20-5a664db9cbe6)
+
